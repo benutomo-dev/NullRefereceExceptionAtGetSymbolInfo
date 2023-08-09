@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Profile": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\NullRefereceExceptionAtGetSymbolInfo\\NullRefereceExceptionAtGetSymbolInfo.csproj"
+    }
+  }
+}
